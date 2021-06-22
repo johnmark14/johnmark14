@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/6UHAUCSNrHbSXu8k4v3sAQ?highlight=spotify:track:00Z40Sx9X2SuSmR3HtzI8a)
+[<img src="https://johnmark14.github.io/jm_art_player/player.html" alt="JM Music Spotify Playing" width="350" />](https://open.spotify.com/album/6UHAUCSNrHbSXu8k4v3sAQ?highlight=spotify:track:00Z40Sx9X2SuSmR3HtzI8a)
 
 ### Connect with me:
 
