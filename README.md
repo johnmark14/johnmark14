@@ -11,9 +11,9 @@
 - 🥅 2021 Goals: Learn more & Create more!!
 - ⚡ Fun fact: I love to learn new tech/tools
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧 -->
 
-[<img src="https://johnmark14.github.io/jm_art_player/player.html" alt="JM Music Spotify Playing" width="350" />](https://open.spotify.com/album/6UHAUCSNrHbSXu8k4v3sAQ?highlight=spotify:track:00Z40Sx9X2SuSmR3HtzI8a)
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/6UHAUCSNrHbSXu8k4v3sAQ?highlight=spotify:track:00Z40Sx9X2SuSmR3HtzI8a) -->
 
 ### Connect with me:
 
@@ -97,13 +97,13 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+# [website]: https://codeSTACKr.com
+# [course]: http://vsCodeHero.com
+# [twitter]: https://twitter.com/codeSTACKr
+# [youtube]: https://youtube.com/codeSTACKr
+# [instagram]: https://instagram.com/codeSTACKr
+# [linkedin]: https://linkedin.com/in/codeSTACKr
+# [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+# [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+# [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+# [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
