@@ -11,9 +11,9 @@
 - 🥅 2021 Goals: Contribute more and build more!!
 - ⚡ Fun fact: I love to explore new tech.
 
-<!-- ### Spotify Playing 🎧
+### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+[<img src="https://api-spotify-player-gtaedp9rx-johnmark14.vercel.app/api/spotify-playing" alt="JM Spotify Playlist Playing" width="350" />](https://open.spotify.com/playlist/6pagWnIQbw04uTD6dWUmqQ?si=1f22901bee654343b)
 
 <!-- ### Connect with me:
 
