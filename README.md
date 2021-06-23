@@ -7,7 +7,7 @@
 
 - 🔭 Developing a new awesome flutter app!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with developers
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more and build more!!
 - ⚡ Fun fact: I love to explore new tech.
 
